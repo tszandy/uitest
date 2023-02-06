@@ -1,0 +1,26 @@
+{
+  "name": "uitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "qunit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "funcunit": "^3.7.0",
+    "grunt": "^1.4.1",
+    "grunt-cli": "^1.4.3",
+    "karma-jasmine": "^5.1.0",
+    "karma-qunit": "^4.1.2",
+    "karma-requirejs": "^1.1.0",
+    "qunit": "^2.16.0",
+    "requirejs": "^2.3.6",
+    "webpack": "^5.75.0"
+  },
+  "dependencies": {
+    "karma-chrome-launcher": "^3.1.1"
+  }
+}
